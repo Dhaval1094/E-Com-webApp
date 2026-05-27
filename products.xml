@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<product>
+<name>iPhone 15</name>
+<price>800</price>
+</product>
+<product>
+<name>MacBook Air</name>
+<price>1200</price>
+</product>
+</products>

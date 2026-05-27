@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Products</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
+<body>
+  <h1>Products</h1>
+  <a href="index.html" id="logoutBtn" class="logout-link">
+    <i class="fas fa-sign-out-alt"></i> <span>Logout</span>                 
+  </a>
+
+  <button id="viewCartBtn" class="view-cart-btn">
+  <i class="fas fa-shopping-cart"></i> View Cart
+</button>
+
+  <div id="productsContainer"></div>
+
+  <div id="imageModal" class="modal">
+    <span class="modal-close">&times;</span>
+    <img class="modal-content" id="modalTargetImg">
+  </div>
+
+<div id="cartPanel" class="cart-panel">
+  <div class="cart-header">
+    <h2>Your Cart</h2>
+    <span id="closeCart" class="close-cart">&times;</span>
+  </div>
+  <div id="cartItemsContainer" class="cart-items-container">
+    </div>
+  <div class="cart-footer">
+    <div class="cart-total">Total: $<span id="cartTotalVal">0.00</span></div>
+    <button class="checkout-btn">Proceed to Checkout</button>
+  </div>
+</div>
+
+  <script type="module" src="products.js"></script>
+</body>
+
+</html>
