@@ -742,4 +742,5 @@ This project was a great hands-on learning experience for understanding:
 # Author
 
 **Dhaval Trivedi**
+
 Mobile Application Developer - iOS, React-Native
