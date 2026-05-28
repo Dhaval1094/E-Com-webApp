@@ -736,9 +736,10 @@ This project was a great hands-on learning experience for understanding:
 - [Backend Guide](https://dhaval1094.github.io/E-Com-webApp/backend-guide)
 - [DynamoDB Guide](https://dhaval1094.github.io/E-Com-webApp/dynamodb-guide)
 - [S3 Hosting Guide](https://dhaval1094.github.io/E-Com-webApp/s3-hosting)
-- FAQs
+- [FAQs](https://dhaval1094.github.io/E-Com-webApp/FAQs)
 
 
 # Author
 
-Dhaval Trivedi
+**Dhaval Trivedi**
+Mobile Application Developer - iOS, React-Native
